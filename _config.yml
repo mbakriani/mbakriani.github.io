@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
 email: 'rianifebryanti9@gmail.com'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-121988383-1'
 disqus: 'rianifebryanti'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
@@ -23,7 +23,7 @@ authors:
     description: "Hanya seorang pria yang hobi merangkai kata-kata menjadi sebuah kalimat."
   john:
     name: Riani Febryanti
-    display_name: Riani
+    display_name: Riani Febryanti
     gravatar: 70ed949ecf971695bb35ca298efd4bbb
     email: rianifebryanti9@gmail.com
     web: https://naturalnusantara.me
