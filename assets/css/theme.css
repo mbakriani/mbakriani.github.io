@@ -337,7 +337,7 @@ span.post-name a,span.post-read-more a:hover {
     position: relative;
 }
 .intro .btn {
-    background: #6FD350;
+    background: #5cb85c;
     border: 0;
     color: #333;
     border-radius: 3px;
@@ -388,7 +388,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #6FD350;
+    background: #5cb85c;
     color: #111;
     padding: 50px 0;
     max-width: 100%;
