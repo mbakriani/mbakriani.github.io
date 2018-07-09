@@ -81,7 +81,7 @@ Nama yang akan terdaftar di PT. Natural Nusantara dalam jaringan NasaNetwork har
 Butuh Bantuan?
 Jangan Sungkan!
 </h3></center>
-<centerJika Anda Butuh Bantuan, Ataupun Hal -Hal Yang Ingin Ditanyakan, Jangan Ragu Untuk Menghubungi Kami, Dengan Senang Hati Akan Kami Bantu
+<center> Jika Anda Butuh Bantuan, Ataupun Hal -Hal Yang Ingin Ditanyakan, Jangan Ragu Untuk Menghubungi Kami, Dengan Senang Hati Akan Kami Bantu
 ————————————————— </center>
 <center><h3>TELP/SMS/WA
 0878-6579-7629</h3></center>
