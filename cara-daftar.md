@@ -71,16 +71,17 @@ Akan tetapi, bila Anda ingin bonus tambahan dari PT Natural Nusantara, maka Anda
 Yang perlu diketahui, bahwa tidak ada target dalam penjualan yang wajib Anda kejar. Sebagian besar para Agen Resmi NASA, membuat target sendiri, mengenai penjualan setiap bulannya.
 
 Masa berlaku sebagai Distributor Resmi NASA yakni selama 2 tahun, dalam artian selama 2 tahun itu jika Anda tidak melakukan penjualan maka akan tetap terdaftar menjadi Reseller Resmi NASA.
-<aside class="notice">
+
 Apabila Anda sudah terdaftar di grup lain menjadi Distribu PT. Natural Nusantara dengan nomor member yang masih aktif, Mohon Maaf, sesuai peraturan perusahaan PT. Natural Nusantara, Anda tidak diperkenankan untuk mendaftar kembali dalam jaringan Nasa Network, Ataupun mendaftarkan nama suami/istri karena tercatat sebagai 1 keanggotaan.
 
 Nama yang akan terdaftar di PT. Natural Nusantara dalam jaringan NasaNetwork haruslah nama orang yang sama dalam menjalankan maupun mempromosikan bisnis ini dengan segala fasilitas jaringan kami.
-</aside>
+
+
 <center><h3>
 Butuh Bantuan?
 Jangan Sungkan!
 </h3></center>
-Jika Anda Butuh Bantuan, Ataupun Hal -Hal Yang Ingin Ditanyakan, Jangan Ragu Untuk Menghubungi Kami, Dengan Senang Hati Akan Kami Bantu
- —————————————————
-### TELP/SMS/WA
-### 0878-6579-7629
+<centerJika Anda Butuh Bantuan, Ataupun Hal -Hal Yang Ingin Ditanyakan, Jangan Ragu Untuk Menghubungi Kami, Dengan Senang Hati Akan Kami Bantu
+————————————————— </center>
+<center><h3>TELP/SMS/WA
+0878-6579-7629</h3></center>
