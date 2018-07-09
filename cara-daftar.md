@@ -16,7 +16,7 @@ Untuk anda yang ingin memanfaatkan peluang ini dan berminat untuk bermitra denga
 1. Mengisi formulir pendaftaran yang akan di Kirimkan Via Email atau WhatsApp/BBM. Atau disini
 2. Beli starterkit pendaftaran seharga Rp. 200.000,-
 
-> Apabila Anda sudah melakukan 2 langkah diatas, tunggu konfirmasi dari kami Nomor ID Sementara dan informasi yang diperlukan ke nomor Anda.
+ <div class="alert alert-warning">Apabila Anda sudah melakukan 2 langkah diatas, tunggu konfirmasi dari kami Nomor ID Sementara dan informasi yang diperlukan ke nomor Anda.</div>
 
 ##### Isi starterkit NASA
 1. Kartu Anggota / Member
@@ -32,7 +32,7 @@ Untuk anda yang ingin memanfaatkan peluang ini dan berminat untuk bermitra denga
 
 ![starterkit Natural Nusantara](/assets/images/WhatsApp-Image-2016-12-01-at-2.10.09-PM.jpeg)
 
-> NB: *Bonus produk dapat berubah sesuai dengan ketentuan perusahaan.*
+<div class="alert alert-success">NB: *Bonus produk dapat berubah sesuai dengan ketentuan perusahaan.* </div>
 
 1. Kami dengan sepenuh hati akan memfollow up dan membantu Anda untuk menyelesaikan prosedur pendaftaran
 2. kami akan segera mengirim produk dan Paket pendaftaran yang telah Anda pilih
