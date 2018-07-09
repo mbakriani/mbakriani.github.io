@@ -72,9 +72,10 @@ Yang perlu diketahui, bahwa tidak ada target dalam penjualan yang wajib Anda kej
 
 Masa berlaku sebagai Distributor Resmi NASA yakni selama 2 tahun, dalam artian selama 2 tahun itu jika Anda tidak melakukan penjualan maka akan tetap terdaftar menjadi Reseller Resmi NASA.
 
+{% include note.html content="
 Apabila Anda sudah terdaftar di grup lain menjadi Distribu PT. Natural Nusantara dengan nomor member yang masih aktif, Mohon Maaf, sesuai peraturan perusahaan PT. Natural Nusantara, Anda tidak diperkenankan untuk mendaftar kembali dalam jaringan Nasa Network, Ataupun mendaftarkan nama suami/istri karena tercatat sebagai 1 keanggotaan.
-
-Nama yang akan terdaftar di PT. Natural Nusantara dalam jaringan NasaNetwork haruslah nama orang yang sama dalam menjalankan maupun mempromosikan bisnis ini dengan segala fasilitas jaringan kami.
+<br/><br/>
+Nama yang akan terdaftar di PT. Natural Nusantara dalam jaringan NasaNetwork haruslah nama orang yang sama dalam menjalankan maupun mempromosikan bisnis ini dengan segala fasilitas jaringan kami." %}
 
 
 <center><h3>
