@@ -16,6 +16,8 @@ Untuk anda yang ingin memanfaatkan peluang ini dan berminat untuk bermitra denga
 1. Mengisi formulir pendaftaran yang akan di Kirimkan Via Email atau WhatsApp/BBM. Atau disini
 2. Beli starterkit pendaftaran seharga Rp. 200.000,-
 
+> Apabila Anda sudah melakukan 2 langkah diatas, tunggu konfirmasi dari kami Nomor ID Sementara dan informasi yang diperlukan ke nomor Anda.
+
 ##### Isi starterkit NASA
 1. Kartu Anggota / Member
 2. Formulir Pendaftaran
@@ -73,3 +75,11 @@ Masa berlaku sebagai Distributor Resmi NASA yakni selama 2 tahun, dalam artian s
 > Apabila Anda sudah terdaftar di grup lain menjadi Distribu PT. Natural Nusantara dengan nomor member yang masih aktif, Mohon Maaf, sesuai peraturan perusahaan PT. Natural Nusantara, Anda tidak diperkenankan untuk mendaftar kembali dalam jaringan Nasa Network, Ataupun mendaftarkan nama suami/istri karena tercatat sebagai 1 keanggotaan.
 
 Nama yang akan terdaftar di PT. Natural Nusantara dalam jaringan NasaNetwork haruslah nama orang yang sama dalam menjalankan maupun mempromosikan bisnis ini dengan segala fasilitas jaringan kami.
+<center>
+### Butuh Bantuan?
+### Jangan Sungkan!
+Jika Anda Butuh Bantuan, Ataupun Hal -Hal Yang Ingin Ditanyakan, Jangan Ragu Untuk Menghubungi Kami, Dengan Senang Hati Akan Kami Bantu
+ —————————————————
+### TELP/SMS/WA
+### 0821 3366 6560
+</center>
