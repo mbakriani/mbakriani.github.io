@@ -130,37 +130,33 @@ Hemmm… tentu bisa,,lalu bagaimana caranya? ini dia yang setelah ini akan saya 
 
 Ada beberapa cara yang sederhana yang dapat Anda lakukan untuk membesarkan dan mengencangkan payudara Anda, caranya antara lain:
 
-Usahakan untuk memulai secara dini perawatan pada payudara terutama saat fasa perkembangan payudara berlangsung.
-
-Jika Anda memilih bra, usahakan sesuai dengan ukuran payudara Anda, jangan kekecilan ataupun kebesaran. Dan diusahakan pemilihan jenis bra sesuai dengan aktivitas Anda.
-
-Usahakan untuk menyeimbangkan asupan gizi terutama lemak dan protein, karena sangat penting pada perkembangan payudara.
-
-Gunakan **Ayla Breast Care NASA** untuk perawatan dan mengencangkan payudara yang berisi
-
+1. Usahakan untuk memulai secara dini perawatan pada payudara terutama saat fasa perkembangan payudara berlangsung.
+2. Jika Anda memilih bra, usahakan sesuai dengan ukuran payudara Anda, jangan kekecilan ataupun kebesaran. Dan diusahakan pemilihan jenis bra sesuai dengan aktivitas Anda.
+3. Usahakan untuk menyeimbangkan asupan gizi terutama lemak dan protein, karena sangat penting pada perkembangan payudara.
+4. Gunakan **Ayla Breast Care NASA** untuk perawatan dan mengencangkan payudara yang berisi
 phytoestrogen yang baik untuk meningkatkan sirkulasi darah dan bekerja seperti estrogen yang dapat menambah ukuran payudara agar berbentuk proposional menurut ukuranya masing-masing.
 
 Bunda dan Sista mungkin sudah terbiasa melakukan 3 dari 4 cara di atas, namun untuk cara ke-4, mungkin Anda masih penasaran sehingga menimbulkan banyak pertanyaan antara lain perusahaan yang mendistribusikan ayla breast care PT Natural Nusantara (NASA) yang berdomisili di Yogyakarta, tepatnya di Jl. Ring Road Barat No.72 Salakan, Trihanggo, Gamping, Sleman, Yogyakarta.
 
 Produk ini memiliki kelebihan yaitu sudah menerapkan nano technology plus bioenergy system sehingga pada penggunaannya lebih cepat terserap oleh kulit dan karena dosis yang dipakai lebih sedikit maka jauh lebih hemat pada penggunaannya.
-###
-Manfaat Dan Kandungan Ayla Breast Care Nasa (ABC)
+
+### Manfaat Dan Kandungan Ayla Breast Care Nasa (ABC)
 
 Manfaat Ayla Breast Care (ABC) ini berasal dari masing-masing komposisi yang terkandung di dalam cream tersebut, antara lain Aqua, Stearic acid (Asam Stearat), Citric acid (Asam Sitrat), Dimethicone, Trietahanolamine, Metil Paraben dan Propil Paraben, serta kandungan utamanya yaitu Pueraria mirificaroot extract, dimana masing-masing kandungan tersebut memiliki manfaat masing-masing, antara lain:
 
-Asam Stearat (Stearic Acid)
+**#1. Asam Stearat (Stearic Acid)**
 
 Asam stearat merupakan bahan yang sering digunakan dalam pembuatan cream kosmetik, dimana berfungsi untuk memberikan efek lembut dan halus pada permukaan kulit, serta dapat digunakan untuk mengembalikan kelembaban kulit dengan berfungsi sebagai skin barrier atau penghalang hilangnya air.
 
-Dimethicone
+**#2. Dimethicone**
 
 Berdasarkan keputusan dari FDA (Food and Drug Administration), menyatakan bahwa dimethicone ini aman digunakan dalam kosmetik sebagai bahan additive, selain itu dapat berfungsi sebagai moisturizing dan pelembab.
 
-Methylparaben dan propylparaben
+**#3. Methylparaben dan propylparaben**
 
 Semua jenis paraben ini digunakan dalam kosmetik terutama cream digunakan untuk menghambat pertumbuhan jamur dan beberapa jenis bakteri atau disebut sebagai bahan preservative.
 
-**Pueraria mirifica root extract**
+**#4. Pueraria mirifica root extract**
 
 Dari kesemua bahan yang terkandung dalam produk Ayla Breast Care Dari Nasa (ABC), ekstrak Pueraria mirifica inilah suatu kandungan yang memiliki efek luar biasa dalam upaya perawatan payudara. Apa manfaatnya menggunakan Ayla Breast Care Nasa yaitu, kandungan ekstrak Pueraria mirifica tanaman berumbi yang berasal dari Thailand an Filipina ini memiliki berbagai khasiat terkait payudara antara lain:
 
@@ -177,14 +173,11 @@ Mekanisme kerja dari phytoestrogen ini hampir seperti hormone estrogen yang memb
 
 Selain itu, pada ekstrak Pueraria mirifica ini, memiliki tiga unsur yang dapat membentuk jaringan baru pada payudara seorang wanita antara lain miroestrol, deoxymiroestrol, dan isoflavone, sehingga merupakan pilihan sangat tepat untuk menambahkan ekstrak ini pada cream pembesar payudara.
 
-CARA PAKAI AYLA BREAST CARE (ABC)
+### Cara Pakai Ayla Breast Care (ABC)
 
 Setelah mencermati betapa luar biasanya produk ini, tentunya Bunda dan Sista yang sudah mulai penasaran ingin mencoba produk ini pengen tau bagaimana cara menggunakan ayla breast care (ABC) tersebut? ini dia cara paling efektif yang dapat dilakukan pada penggunaan produk ini:
 
-Dibersihkan terlebih dahulu seluruh bagian payudara dengan air hangat, agar pori-pori kulit membuka sehingga penyerapan cream akan lebih efektif.
-
-Oleskan Ayla Breast Care (ABC) pada permukaan kulit payudara secara merata kecuali bagian putting.
-
-Pijatlah payudara dengan gerakan melingkar namun perlahan-lahan,dan jika diinginkan hasil yang lebih optimal pijatan dapat dilakukan sekitar 10-20 kali
-
-Diamkan payudara hingga kering. Akan lebih efektif dilakukan kurang lebih 30 menit sebelum tidur.
+1. Dibersihkan terlebih dahulu seluruh bagian payudara dengan air hangat, agar pori-pori kulit membuka sehingga penyerapan cream akan lebih efektif.
+2. Oleskan Ayla Breast Care (ABC) pada permukaan kulit payudara secara merata kecuali bagian putting.
+3. Pijatlah payudara dengan gerakan melingkar namun perlahan-lahan,dan jika diinginkan hasil yang lebih optimal pijatan dapat dilakukan sekitar 10-20 kali
+4. Diamkan payudara hingga kering. Akan lebih efektif dilakukan kurang lebih 30 menit sebelum tidur.
