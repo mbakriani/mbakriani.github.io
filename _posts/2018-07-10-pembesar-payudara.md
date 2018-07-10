@@ -8,12 +8,14 @@ image: assets/images/2.jpg
 **Ayla Breast Care NASA** - Bunda dan Sista, Sewajarnya seorang perempuan dewasa yang sangat memperhatikan penampilan bentuk payudara proposional atau sering disebut buah dada kini menjadi topik yang dianggap penting dalam upaya menunjang penampilan oleh beberapa kalangan wanita.
 
 <div class="alert alert-success">Lantas apa sebenarnya yang menjadi perhatian mengenai payudara ini?
-<br>
+<br><br>
 Mengapa wanita kini berlomba-lomba membesarkan ukuran payudaranya?
-<br>
+<br><br>
 Seberapa pentingkah ukuran payudara yang besar?
 </div>
-Tentunya pertanyaan-pertanyaan tersebut sangat sering terdengar di telinga kita, lalu benarkah ayla breast care nasa dapat membantu mengencangkan bentuk payudara anda?
+Tentunya pertanyaan-pertanyaan tersebut sangat sering terdengar di telinga kita.
+
+lalu benarkah ayla breast care nasa dapat membantu mengencangkan bentuk payudara anda?
   
 Atau sebaliknya apakah ayla breast care dapat membesarkan ukuran payudara anda??
 
