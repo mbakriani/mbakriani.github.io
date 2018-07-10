@@ -40,8 +40,7 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks:
-    category: '/:title/'
+  permalinks: '/:title/'
     
 # Other
 markdown: kramdown
