@@ -1,17 +1,21 @@
 ---
 layout: post
 title:  "Ayla Breast Care Pengencang Pembesar Payudara"
-author: Riani Febryanti
+author: john
 categories: [ Kosmetik, Kesehatan ]
 image: assets/images/2.jpg
 ---
 **Ayla Breast Care NASA** - Bunda dan Sista, Sewajarnya seorang perempuan dewasa yang sangat memperhatikan penampilan bentuk payudara proposional atau sering disebut buah dada kini menjadi topik yang dianggap penting dalam upaya menunjang penampilan oleh beberapa kalangan wanita.
 
-...lantas apa sebenarnya yang menjadi perhatian mengenai payudara ini?
-
+<div class="alert alert-success">Lantas apa sebenarnya yang menjadi perhatian mengenai payudara ini?
+<br>
 Mengapa wanita kini berlomba-lomba membesarkan ukuran payudaranya?
-
-Seberapa pentingkah ukuran payudara yang besar? Tentunya pertanyaan-pertanyaan tersebut sangat sering terdengar di telinga kita, lalu benarkah ayla breast care nasa dapat membantu mengencangkan bentuk payudara anda? Atau sebaliknya apakah ayla breast care dapat membesarkan ukuran payudara anda??
+<br>
+Seberapa pentingkah ukuran payudara yang besar?
+<div>
+Tentunya pertanyaan-pertanyaan tersebut sangat sering terdengar di telinga kita, lalu benarkah ayla breast care nasa dapat membantu mengencangkan bentuk payudara anda?
+  
+Atau sebaliknya apakah ayla breast care dapat membesarkan ukuran payudara anda??
 
 Terlepas dari pertanyaan-pertanyaan diatas akan dijelaskan pada bab-bab dibawah nanti, lantas ukuran payudara besar yang mempengaruhi kematangan dalam penampilan hanyalah mitos ataupun bukan, bagian penting dari wanita ini pada dasarnya menjadi suatu ciri khas perempuan dan memiliki daya tarik tersendiri terutama lawan jenis.
 
@@ -19,7 +23,7 @@ Coba Anda bayangkan bagaimana bila wanita dewasa tidak memiliki payudara? Kemung
 
 Nah dari adanya persepsi bahwa ukuran payudara besar (proposional) menunjang daya tarik lawan jenis inilah yang menjadikan banyak wanita mengupayakan pembesaran ukuran payudara mereka.
 
-Lalu Seperti apa ukuran payudar yang ideal? Berikut dibawah ini step by step akan dijelaskan.
+Lalu Seperti apa ukuran payudara yang ideal? Berikut dibawah ini step by step akan dijelaskan.
 
 ### Fase Perkembangan Payudara
 
@@ -51,7 +55,7 @@ Nah, adanya masalah pada hormon estrogen dalam tubuh wanita akan menimbulkan ter
 
 Adapun beberapa penyebab dan hal yang paling dikeluhkan wanita, yaitu payudara kecil atau payudara yang tidak memiliki bentuk yang ideal antara lain dibawah ini akan dijelaskan beberapa penyebab mengapa ukuran payudara kecil dan tidak ideal, antara lain:
 
-kurangan jumlah hormon
+**#1. kurangan jumlah hormon**
 Seperti yang telah dijelaskan bahwa pada saat perkembangan ukuran payudara wanita masa pubertas, terdapat satu hormon yang bertanggung jawab, yaitu hormon estrogen.
 
 Kekurangan hormon estrogen pada masa pubertas ini dapat menjadikan pertumbuhan payudara menjadi terhambat atau berlangsung lama.
@@ -60,17 +64,21 @@ Oleh karena itu, sejak pubertas, seorang wanita harus memperhatikan apakah hormo
 
 Tentunya peran orang tua penting dalam memperhatikan masalah ini.
 
-Genetika. Faktor genetik ini memegang peran sangat penting pada pertumbuhan dan perkembangan tubuh wanita masa pubertas. Tidak hanya pada ukuran payudara, namun juga pada perkembangan bagian tubuh yang lain seperti jenis rambut, bentuk wajah dan lain sebagainya.
+**#2. Genetika.**
+Faktor genetik ini memegang peran sangat penting pada pertumbuhan dan perkembangan tubuh wanita masa pubertas. Tidak hanya pada ukuran payudara, namun juga pada perkembangan bagian tubuh yang lain seperti jenis rambut, bentuk wajah dan lain sebagainya.
 
 Jadi untuk wanita yang ketika dewasa mempunyai ukuran payudara kecil, diamati dahulu apakah Anda memang memiliki gen dengan payudara kecil.
 
-Kurangnya asupan lemak pada tubuh, Pada dasarnya, payudara wanita terbentuk dari jaringan lemak di bawah kulit dada seorang perempuan. Oleh karena itu, bagaimana jika wanita kekurangan suplai lemak pada tubuhnya selama masa perkembangan ukuran payudara? Alhasil adalah ukuran payudara menjadi kecil karena terhambat.
+**#3. Kurangnya asupan lemak pada tubuh**
+Pada dasarnya, payudara wanita terbentuk dari jaringan lemak di bawah kulit dada seorang perempuan. Oleh karena itu, bagaimana jika wanita kekurangan suplai lemak pada tubuhnya selama masa perkembangan ukuran payudara? Alhasil adalah ukuran payudara menjadi kecil karena terhambat.
 
 Nah oleh karena itu, perempuan di masa pubertas dimana sedang mengalami masa perkembangan payudara akan lebih baik jika memperhatikan suplai lemak pada tubuhnya.
 
-Hormon wanita tidak seimbang, Seperti halnya kekurangan jumlah hormone estrogen dalam tubuh wanita yang menyebabkan terhambatnya perkembangan payudara, ketidakseimbangan hormon wanita pada tubuh juga mempengaruhi perkembangan payudara pada wanita, oleh karena itu diharapkan pada masa pubertas, harus diperhatikan kesetimbangan hormone wanita pada tubuh.
+**#4. Hormon wanita tidak seimbang**
+Seperti halnya kekurangan jumlah hormone estrogen dalam tubuh wanita yang menyebabkan terhambatnya perkembangan payudara, ketidakseimbangan hormon wanita pada tubuh juga mempengaruhi perkembangan payudara pada wanita, oleh karena itu diharapkan pada masa pubertas, harus diperhatikan kesetimbangan hormone wanita pada tubuh.
 
-Adanya depresi dan penggunaan beberapa obat tertentu, Adanya keadaan depresi pada wanita, tidak hanya akan menimbulkan berbagai gangguan kesehatan, namun juga dapat memicu factor penghambatan perkembangan payudara sehingga besar kemungkinan menyebabkan payudara menjadi kecil.
+**#5. Adanya depresi dan penggunaan beberapa obat tertentu**
+Adanya keadaan depresi pada wanita, tidak hanya akan menimbulkan berbagai gangguan kesehatan, namun juga dapat memicu factor penghambatan perkembangan payudara sehingga besar kemungkinan menyebabkan payudara menjadi kecil.
 
 Selain itu, penggunaan beberapa obat tertentu akan menimbulkan efek yang tidak bagus untuk perkembangan payudara.
 
@@ -84,28 +92,27 @@ Hemmm,,, mendengar istilah kendur pun rasa-rasanya sudah tidak menyenangkan di t
 
 Nah apa sih yang menjadikan payudara menjadi kendur? Mau tau? Yuk simak penjelasan selanjutnya…
 
-###
-Mengapa Payudara Menjadi Kendur Dan Tidak Kencang ?
+### Mengapa Payudara Menjadi Kendur Dan Tidak Kencang?
 
 Apa saja penyebab payudara menjadi kendur? Di bawah ini Saya akan menjelaskan beberapa factor penyebab payudara menjadi kendur (tidak kencang), antara lain:
 
-Usia wanita mempengarui faktor payudara mengecil
+**#1. Usia wanita mempengarui faktor payudara mengecil**
 
-Payudara wanita yang pada masa muda kencang dan kenyal, seiring perkembangan usia wanita tersebut dapat menjadi kendur dan tidak kenyal. Mengapa? karena jumlah hormon di payudara jumlahnya semakin berkurang sehingga mempengaruhi bentuk dari payudara tersebut, alhasil payudara menjadi kendur dan kehilangan kekanyalannya.
+Payudara wanita yang pada masa muda kencang dan kenyal, seiring perkembangan usia wanita tersebut dapat menjadi kendur dan tidak kenyal. Mengapa? karena jumlah hormon di payudara jumlahnya semakin berkurang sehingga mempengaruhi bentuk dari payudara tersebut, alhasil payudara menjadi kendur dan kehilangan kekenyalannya.
 
-Menyusui dan Menopause
+**#2. Menyusui dan Menopause**
 
 Jika wanita melewati masa menyusui atau mengalami menopause, keadaan tersebut dapat menyebabkan kondisi payudara yang tidak kencang dan kehilangan kekenyalan.
 
-Perlakuan kasar
+**#3. Perlakuan kasar**
 
 Nah, ini dia faktor yang harus diperhatikan tidak hanya oleh wanita, namun juga pasangannya alias suami, dimana saat bercinta diusahakan untuk tidak melakukan perlakuan kasar atau menekan terlalu kasar pada payudara, karena dapat mempengaruhi kondisi payudara menjadi kendur dan tidak kenyal.
 
-Penggunaan Bra yang tidak benar, atau tidak pas pada ukuran
+**#4.Penggunaan Bra yang tidak benar, atau tidak pas pada ukuran**
 
 Perawatan kekencangan dan kekenyalan payudara harus dimulai saat terjadinya fase perkembangan payudara, dimana penting sekali penggunaan bra yang sesuai dan pas karena pada saat perkembangan payudara, berkembang juga bentuk payudaranya, sehingga jika digunakan bra yang kedodoran, akan menyebabkan payudara yang kendur dan terlihat tidak kenyal.
 
-Perubahan Berat Badan
+**#5. Perubahan Berat Badan**
 
 Pada saat berat badan bertambah, menyebabkan ligament tidak berada pada tempatnya dalam tubuh sehingga jaringan payudara kemungkinan besar akan berpindah, alhasil payudara akan kendur dan tidak kencang kembali.
 
@@ -119,7 +126,7 @@ Nah Bunda dan Sista, dengan adanya masalah tersebut di atas yaitu payudara memil
 
 Hemmm… tentu bisa,,lalu bagaimana caranya? ini dia yang setelah ini akan saya jelaskan kepada Bunda dan Sista.. oleh karena itu, disimak baik-baik ya…
 
-Cara Merawat Dan Mengencangkan Payudara
+### Cara Merawat Dan Mengencangkan Payudara
 
 Ada beberapa cara yang sederhana yang dapat Anda lakukan untuk membesarkan dan mengencangkan payudara Anda, caranya antara lain:
 
@@ -130,8 +137,8 @@ Jika Anda memilih bra, usahakan sesuai dengan ukuran payudara Anda, jangan kekec
 Usahakan untuk menyeimbangkan asupan gizi terutama lemak dan protein, karena sangat penting pada perkembangan payudara.
 
 Gunakan **Ayla Breast Care NASA** untuk perawatan dan mengencangkan payudara yang berisi
-P
-hytoestrogen yang baik untuk meningkatkan sirkulasi darah dan bekerja seperti estrogen yang dapat menambah ukuran payudara agar berbentuk proposional menurut ukuranya masing-masing.
+
+phytoestrogen yang baik untuk meningkatkan sirkulasi darah dan bekerja seperti estrogen yang dapat menambah ukuran payudara agar berbentuk proposional menurut ukuranya masing-masing.
 
 Bunda dan Sista mungkin sudah terbiasa melakukan 3 dari 4 cara di atas, namun untuk cara ke-4, mungkin Anda masih penasaran sehingga menimbulkan banyak pertanyaan antara lain perusahaan yang mendistribusikan ayla breast care PT Natural Nusantara (NASA) yang berdomisili di Yogyakarta, tepatnya di Jl. Ring Road Barat No.72 Salakan, Trihanggo, Gamping, Sleman, Yogyakarta.
 
