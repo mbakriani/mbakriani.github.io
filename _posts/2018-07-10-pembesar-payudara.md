@@ -3,9 +3,9 @@ layout: post
 title:  "Ayla Breast Care Pengencang Pembesar Payudara"
 author: john
 categories: [ Kosmetik, Kesehatan ]
-image: assets/images/2.jpg
+image: assets/images/ayla-breast-care-perawatan-payudara.png
 ---
-**Ayla Breast Care NASA** - Bunda dan Sista, Sewajarnya seorang perempuan dewasa yang sangat memperhatikan penampilan bentuk payudara proposional atau sering disebut buah dada kini menjadi topik yang dianggap penting dalam upaya menunjang penampilan oleh beberapa kalangan wanita.
+**Ayla Breast Care NASA**-Bunda dan Sista, Sewajarnya seorang perempuan dewasa yang sangat memperhatikan penampilan bentuk payudara proposional atau sering disebut buah dada kini menjadi topik yang dianggap penting dalam upaya menunjang penampilan oleh beberapa kalangan wanita.
 
 <div class="alert alert-success">Lantas apa sebenarnya yang menjadi perhatian mengenai payudara ini?
 <br><br>
