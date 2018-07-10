@@ -58,6 +58,7 @@ Nah, adanya masalah pada hormon estrogen dalam tubuh wanita akan menimbulkan ter
 Adapun beberapa penyebab dan hal yang paling dikeluhkan wanita, yaitu payudara kecil atau payudara yang tidak memiliki bentuk yang ideal antara lain dibawah ini akan dijelaskan beberapa penyebab mengapa ukuran payudara kecil dan tidak ideal, antara lain:
 
 **#1. kurangan jumlah hormon**
+
 Seperti yang telah dijelaskan bahwa pada saat perkembangan ukuran payudara wanita masa pubertas, terdapat satu hormon yang bertanggung jawab, yaitu hormon estrogen.
 
 Kekurangan hormon estrogen pada masa pubertas ini dapat menjadikan pertumbuhan payudara menjadi terhambat atau berlangsung lama.
@@ -66,20 +67,24 @@ Oleh karena itu, sejak pubertas, seorang wanita harus memperhatikan apakah hormo
 
 Tentunya peran orang tua penting dalam memperhatikan masalah ini.
 
-**#2. Genetika.**
+**#2. Genetika**
+
 Faktor genetik ini memegang peran sangat penting pada pertumbuhan dan perkembangan tubuh wanita masa pubertas. Tidak hanya pada ukuran payudara, namun juga pada perkembangan bagian tubuh yang lain seperti jenis rambut, bentuk wajah dan lain sebagainya.
 
 Jadi untuk wanita yang ketika dewasa mempunyai ukuran payudara kecil, diamati dahulu apakah Anda memang memiliki gen dengan payudara kecil.
 
 **#3. Kurangnya asupan lemak pada tubuh**
+
 Pada dasarnya, payudara wanita terbentuk dari jaringan lemak di bawah kulit dada seorang perempuan. Oleh karena itu, bagaimana jika wanita kekurangan suplai lemak pada tubuhnya selama masa perkembangan ukuran payudara? Alhasil adalah ukuran payudara menjadi kecil karena terhambat.
 
 Nah oleh karena itu, perempuan di masa pubertas dimana sedang mengalami masa perkembangan payudara akan lebih baik jika memperhatikan suplai lemak pada tubuhnya.
 
 **#4. Hormon wanita tidak seimbang**
+
 Seperti halnya kekurangan jumlah hormone estrogen dalam tubuh wanita yang menyebabkan terhambatnya perkembangan payudara, ketidakseimbangan hormon wanita pada tubuh juga mempengaruhi perkembangan payudara pada wanita, oleh karena itu diharapkan pada masa pubertas, harus diperhatikan kesetimbangan hormone wanita pada tubuh.
 
 **#5. Adanya depresi dan penggunaan beberapa obat tertentu**
+
 Adanya keadaan depresi pada wanita, tidak hanya akan menimbulkan berbagai gangguan kesehatan, namun juga dapat memicu factor penghambatan perkembangan payudara sehingga besar kemungkinan menyebabkan payudara menjadi kecil.
 
 Selain itu, penggunaan beberapa obat tertentu akan menimbulkan efek yang tidak bagus untuk perkembangan payudara.
