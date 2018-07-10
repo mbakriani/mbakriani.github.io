@@ -149,7 +149,9 @@ Produk ini memiliki kelebihan yaitu sudah menerapkan nano technology plus bioene
 
 ### Manfaat Dan Kandungan Ayla Breast Care Nasa (ABC)
 
-Manfaat Ayla Breast Care (ABC) ini berasal dari masing-masing komposisi yang terkandung di dalam cream tersebut, antara lain Aqua, Stearic acid (Asam Stearat), Citric acid (Asam Sitrat), Dimethicone, Trietahanolamine, Metil Paraben dan Propil Paraben, serta kandungan utamanya yaitu Pueraria mirificaroot extract, dimana masing-masing kandungan tersebut memiliki manfaat masing-masing, antara lain:
+Manfaat Ayla Breast Care (ABC) ini berasal dari masing-masing komposisi yang terkandung di dalam cream tersebut, antara lain *Aqua, Stearic acid (Asam Stearat), Citric acid (Asam Sitrat), Dimethicone, Trietahanolamine, Metil Paraben dan Propil Paraben, serta kandungan utamanya yaitu Pueraria mirificaroot extract.*
+
+dimana masing-masing kandungan tersebut memiliki manfaat masing-masing, antara lain:
 
 **#1. Asam Stearat (Stearic Acid)**
 
@@ -165,7 +167,9 @@ Semua jenis paraben ini digunakan dalam kosmetik terutama cream digunakan untuk 
 
 **#4. Pueraria mirifica root extract**
 
-Dari kesemua bahan yang terkandung dalam produk Ayla Breast Care Dari Nasa (ABC), ekstrak Pueraria mirifica inilah suatu kandungan yang memiliki efek luar biasa dalam upaya perawatan payudara. Apa manfaatnya menggunakan Ayla Breast Care Nasa yaitu, kandungan ekstrak Pueraria mirifica tanaman berumbi yang berasal dari Thailand an Filipina ini memiliki berbagai khasiat terkait payudara antara lain:
+Dari kesemua bahan yang terkandung dalam produk Ayla Breast Care Dari Nasa (ABC), ekstrak Pueraria mirifica inilah suatu kandungan yang memiliki efek luar biasa dalam upaya perawatan payudara.
+
+Apa manfaatnya menggunakan Ayla Breast Care Nasa yaitu, kandungan ekstrak Pueraria mirifica tanaman berumbi yang berasal dari Thailand an Filipina ini memiliki berbagai khasiat terkait payudara antara lain:
 
 1. Dapat memperbesar dan mengencangkan payudara
 2. Dapat mengangkat payudara hingga lebih kelihatan berisi
@@ -182,7 +186,9 @@ Selain itu, pada ekstrak Pueraria mirifica ini, memiliki tiga unsur yang dapat m
 
 ### Cara Pakai Ayla Breast Care (ABC)
 
-Setelah mencermati betapa luar biasanya produk ini, tentunya Bunda dan Sista yang sudah mulai penasaran ingin mencoba produk ini pengen tau bagaimana cara menggunakan ayla breast care (ABC) tersebut? ini dia cara paling efektif yang dapat dilakukan pada penggunaan produk ini:
+Setelah mencermati betapa luar biasanya produk ini, tentunya Bunda dan Sista yang sudah mulai penasaran ingin mencoba produk ini pengen tau bagaimana cara menggunakan ayla breast care (ABC) tersebut?
+
+ini dia cara paling efektif yang dapat dilakukan pada penggunaan produk ini:
 
 1. Dibersihkan terlebih dahulu seluruh bagian payudara dengan air hangat, agar pori-pori kulit membuka sehingga penyerapan cream akan lebih efektif.
 2. Oleskan Ayla Breast Care (ABC) pada permukaan kulit payudara secara merata kecuali bagian putting.
