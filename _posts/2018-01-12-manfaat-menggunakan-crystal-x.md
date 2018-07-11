@@ -119,7 +119,7 @@ Bahkan kami dapat mengatakan Crystal X ini tidak berbahaya sama sekali selama pe
 
 ### Cara Pemakaian Crystal X
 
-Berikut cara menggunakan Crystal X:
+Berikut cara menggunakan Crystal X:
 
 **Bagi yang telah berkeluarga**
 
@@ -132,9 +132,7 @@ Berikut cara menggunakan Crystal X:
 
 1. Rendam Crystal-X dalam air suam-suam kuku selama 1-5 menit dan dipakai untuk membersihkan/membasuh organ kewanitaan. Cara ini juga dapat digunakan bagi wanita berkeluarga yang enggan melakukan cara Perhatian
 
-<div class="alert alert-success">Gunakan Crystal 2 x sehari setelah mandi untuk pengobatan keputihan maupun gangguan/keluhan pada daerah miss V
-<br><br>
-Kurangi intensitas pemakaian jika sudah dirasa membaik/sembuh untuk pencegahan berbagai masalah pada miss V datang kembaliDapat juga dipakai 5 menit sebelum berhubungan intim dengan suami</div>
+<div class="alert alert-success">Gunakan Crystal 2 x sehari setelah mandi untuk pengobatan keputihan maupun gangguan/keluhan pada daerah miss V <br><br> kurangi intensitas pemakaian jika sudah dirasa membaik/sembuh untuk pencegahan berbagai masalah pada miss V datang kembaliDapat juga dipakai 5 menit sebelum berhubungan intim dengan suami</div>
 
 ### Perlu diperhatikan
 
