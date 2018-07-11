@@ -1,11 +1,12 @@
 # Site
 name: Distributor Resmi PT. Natural Nusantara Indonesia
 description: PT. Natural Nusantara adalah perusahaan multinasional yang bergerak di bidang perdagangan produk agro kompleks, kesehatan, kecantikan dan kebutuhan rumah tangga berbasis organik.
-meta_description: "PT. Natural Nusantara adalah perusahaan multinasional yang bergerak di bidang perdagangan produk agro kompleks, kesehatan, kecantikan dan kebutuhan rumah tangga berbasis organik.."
+meta_description: "PT. Natural Nusantara adalah perusahaan multinasional yang bergerak di bidang perdagangan produk agro kompleks, kesehatan, kecantikan dan kebutuhan rumah tangga berbasis organik."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
+url: https://naturalnusantara.me
 email: 'rianifebryanti9@gmail.com'
 google_analytics: 'UA-121988383-1'
 disqus: 'rianifebryanti'
