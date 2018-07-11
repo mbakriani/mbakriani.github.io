@@ -63,7 +63,7 @@ Usapkan grece body crystal di tempat yang gatal setiap selesai mandi, atau deng
 
 lalu gunakan airnya yang sudah berwarna hijau tersebut untuk membasuhkan ketempat yang gatal.
 
-<div class="alert alert-success">catatan: Saat penggunaan pegang erat-erat Grece Body Crystal agar tidak jatuh dan pecah, jika pecah Grece Body Crystal tetap bisa digunakan lagi pada bagian yang halus agar kulit tidak terluka pada saat dioleskan, atau juga bisa dengan cara direndam terus ke dalam air 250 cc - 500 cc kemudian rendam grece body crytsal yang dipergunakan untuk mengatasi bau badan & gatal-gatal.</div>
+<div class="alert alert-success">catatan! Saat penggunaan pegang erat-erat Grece Body Crystal agar tidak jatuh dan pecah, jika pecah Grece Body Crystal tetap bisa digunakan lagi pada bagian yang halus agar kulit tidak terluka pada saat dioleskan, atau juga bisa dengan cara direndam terus ke dalam air 250cc - 500cc kemudian rendam grece body crystal yang dipergunakan untuk mengatasi bau badan & gatal-gatal</div>
 
 Grece Body Crystal membantu melindungi tubuh anda dari bau keringat dan bau badan tidak sedap.
 
