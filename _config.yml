@@ -10,6 +10,7 @@ email: 'rianifebryanti9@gmail.com'
 google_analytics: 'UA-121988383-1'
 disqus: 'rianifebryanti'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+permalinks: /:title/
 
 # Authors
 authors:
@@ -40,7 +41,7 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-permalinks: /:title/
+
     
 # Other
 markdown: kramdown
