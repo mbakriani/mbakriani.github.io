@@ -113,7 +113,7 @@ Berikut tata cara pemakaian CollaSkin agar hasil maksimal.
 1. Celupkan kantung CollaSkin Collagen Drink ke dalam 180 ml air panas, biarkan terendam 5 menit kemudian baru diminum. Bisa ditambahkan pemanis sesuai selera (tanpa pemanis akan lebih baik).
 2. CollaSkin Collagen Drink bila tidak ditambah pemanis dapat diambil 1 sendok makan (secukupnya) untuk dioleskan ke wajah sebagai masker perawatan kulit.
 
-<div class="alert alert-info">NB: Untuk Pengobatan Kulit: 4 kantung CollaSkin Collagen Drink per hari.
-Untuk Perawatan Kulit: 1 s/d 2 kantung CollaSkin Collagen Drink per hari, pagi dan sore.</div>
+<div class="alert alert-success">NB: Untuk Pengobatan Kulit: 4 kantung CollaSkin Collagen Drink per hari.
+<br><br>Untuk Perawatan Kulit: 1 s/d 2 kantung CollaSkin Collagen Drink per hari, pagi dan sore.</div>
 
 Dengan pemakaian setiap hari CollaSkin Soap dan CollaSkin Tea maka kulit jauh lebih putih,kinclong dan sehat dalam 15 hari. **Tunggu apalagi Buktikan sendiri!!..**
