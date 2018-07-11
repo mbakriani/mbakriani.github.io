@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mengatasi Bau Badan Dengan Grece Body Crystal"
-author: sal
+author: john
 categories: [ Kesehatan, Kosmetik ]
 image: assets/images/grece-body-crystal-anti-bau-badan-toko-herbal-kasimura.jpg
 ---
