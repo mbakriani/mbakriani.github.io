@@ -34,6 +34,7 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
     
 # Other
 markdown: kramdown
