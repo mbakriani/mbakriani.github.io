@@ -6,7 +6,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
-permalinks: pretty
 email: 'rianifebryanti9@gmail.com'
 google_analytics: 'UA-121988383-1'
 disqus: 'rianifebryanti'
@@ -36,13 +35,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
     
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-
-    
 # Other
 markdown: kramdown
 highlighter: rouge
+permalink: /:title/
