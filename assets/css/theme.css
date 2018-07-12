@@ -130,6 +130,14 @@ section.recent-posts {
 .navbar-toggler {
     z-index:9999;
 }
+.navbar-toggleable-md .navbar-nav .nav-link {
+    margin-left: 1rem;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.94em;        
+	}
 .mediumnavigation .dropdown-menu {
         margin:0 0 15px 0;
         box-shadow:none;
