@@ -355,7 +355,7 @@ span.post-name a,span.post-read-more a:hover {
     line-height: 1.6;
 }
 .wrapintro {
-    background: #fff;
+    background: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
     width: 700px;
     padding: 3rem;
     max-width: 90%;
