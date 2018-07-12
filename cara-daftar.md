@@ -13,7 +13,7 @@ PT Natural Nusantara atau lebih di kenal PT NASA membuka peluang usaha bagi anda
 
 Untuk anda yang ingin memanfaatkan peluang ini dan berminat untuk bermitra dengan PT Natural Nusantara, berikut ini adalah cara mudah mendaftar Distributor Produk NASA yang bisa anda ikuti.
 
-1. Mengisi formulir pendaftaran yang akan di Kirimkan Via Email atau WhatsApp/BBM. Atau disini
+1. Mengisi [formulir pendaftaran]({{ site.baseurl }}/formulir-pendaftaran) yang akan di Kirimkan Via Email atau WhatsApp/BBM.
 2. Beli starterkit pendaftaran seharga Rp. 200.000,-
 
  <div class="alert alert-warning">Apabila Anda sudah melakukan 2 langkah diatas, tunggu konfirmasi dari kami Nomor ID Sementara dan informasi yang diperlukan ke nomor Anda.</div>
