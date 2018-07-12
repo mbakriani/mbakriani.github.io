@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 'Formulir Pendaftaran Member Natural Nusantara'
+title: 'Formulir Pendaftaran Natural Nusantara'
 comments: true
 ---
 
-### Formulir Pendaftaran Natural Nusantara
-
-<div class="alert alert-success">Harap diisi sesuai data di KTP</div>
+<div class="alert alert-success"> Harap diisi sesuai data di KTP </div>
 
 Nama :<br>
 NIK: <br>
