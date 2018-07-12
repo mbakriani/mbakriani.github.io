@@ -8,40 +8,40 @@ comments: true
 
 <div class="alert alert-success">Harap diisi sesuai data di KTP</div>
 
-Nama :
-NIK: 
-No. Hp/WA : 
-TTL:
-Alamat : 
-Kota : 
-Kode Pos :
-Status :
+Nama :<br>
+NIK: <br>
+No. Hp/WA : <br>
+TTL:<br>
+Alamat : <br>
+Kota : <br>
+Kode Pos :<br>
+Status :<br>
 
 **Data pasangan**
 
-Nama Pasangan : 
-NIK : 
-TTL :
+Nama Pasangan : <br>
+NIK : <br>
+TTL :<br>
 
 **Data Ahli Waris**
 
-Nama : 
-TTL : 
-Hubungan :
+Nama : <br>
+TTL : <br>
+Hubungan :<br>
 
 **Data Bank**
 
 <div class="alert alert-success">Jika belum punya rekening, boleh menyusul, nama pemilik rek. harus sama dengan nama pendaftar</div>
 
-Nama Pemilik Rek : 
-No. Rekening :
-Bank :
-Cabang :
+Nama Pemilik Rek : <br>
+No. Rekening :<br>
+Bank :<br>
+Cabang :<br>
 
 **Data Upline**
 
-Nama Upline :
-ID Upline :
+Nama Upline :<br>
+ID Upline :<br>
 
 > Silahkan diisi formulir diatas dengan cara copy paste formulir tersebut selanjutnya kirim melalui kontak yang ada di website ini.
 
