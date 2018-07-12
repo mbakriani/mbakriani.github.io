@@ -377,7 +377,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #5cb85c;
+    background: linear-gradient(to right, yellow, green);
     color: #111;
     padding: 50px 0;
     max-width: 100%;
