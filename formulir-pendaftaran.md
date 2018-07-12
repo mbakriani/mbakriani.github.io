@@ -29,7 +29,7 @@ Hubungan :<br>
 
 **Data Bank**
 
-<div class="alert alert-success">Jika belum punya rekening, boleh menyusul, nama pemilik rek. harus sama dengan nama pendaftar</div>
+<div class="alert alert-success"> Jika belum punya rekening, boleh menyusul, nama pemilik rek. harus sama dengan nama pendaftar </div>
 
 Nama Pemilik Rek : <br>
 No. Rekening :<br>
