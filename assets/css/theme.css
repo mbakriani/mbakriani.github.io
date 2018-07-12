@@ -110,7 +110,7 @@ section.recent-posts {
 .prevnextlinks .rightborder {
     border-right: 1px solid #eee;
 }
-.navbar-toggleable-md .navbar-nav .nav-link .navbar-toggler-icon {
+.navbar-toggleable-md .navbar-nav .nav-link {
     margin-left: 1rem;
     font-weight: 500;
     color: #fff;
@@ -118,6 +118,9 @@ section.recent-posts {
     letter-spacing: 1px;
     font-size: 0.94em;        
 	}
+.navbar-toggler-icon {
+    color: #fff; 
+}
 .navbar-toggleable-md .navbar-nav .nav-link.highlight {
     background: #000000;
     color: #fff;
