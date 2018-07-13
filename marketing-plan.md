@@ -1,5 +1,5 @@
 ---
-layouts: page
+layouts: posts
 title: 'Marketing Plan Di PT. Natural Nusantara (NASA)'
 author: john
 image: assets/images/IMG_20180713_180933.jpg
