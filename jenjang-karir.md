@@ -3,14 +3,17 @@ layout: page
 title: 'Jenjang Karir PT. Natural Nusantara'
 comments: true
 ---
+![jenjang karir](assets/images/Karir.jpeg)
 
-Informasi Jenjang karir bisnis Nasa tentunya menjadi pengetahuan yang sangat penting bagi setiap Distributor terutama anda yang fokus dan serius ingin mengembangkan bisnis produk Nasa sebagai salah satu profesi penting.
+Informasi Jenjang karir bisnis Nasa tentunya menjadi pengetahuan yang sangat penting bagi setiap Distributor terutama anda yang fokus dan serius ingin mengembangkan bisnis produk Nasa sebagai salah satu profesi penting.
 
-Untuk itulah kami sebagai Support System untuk Distributor jaringan Stockist G.1251 ingin membagikan info jenjang karir yang bisa anda capai di Bisnis Nasa. Namun sebelum sampai pada pembahasan ini, ada baiknya anda memahami istilah-istilah dalam Marketing Plan Nasa.
+Untuk itulah kami sebagai Support System untuk Distributor jaringan Stockist G.1251 ingin membagikan info jenjang karir yang bisa anda capai di Bisnis Nasa. Namun sebelum sampai pada pembahasan ini, ada baiknya anda memahami istilah-istilah dalam [Marketing Plan Nasa.]({{ site.baseurl }}/marketing-plan)
 
 ### 10 Peringkat Jenjang Karir Bisnis Nasa
 
-Jenjang karir adalah suatu posisi atau peringkat seorang Distributor Nasa yang bisa dicapai berdasarkan prestasi omset ataupun pembinaan jaringan pemasaran didalam grupnya. Kalau pada pegawai negeri mungkin bisa disamakan dengan pangkat atau golongan. Peringkat ini merupakan salah satu faktor penentu perolehan beberapa macam bonus atau royalti penghasilan di Bisnis Nasa.
+Jenjang karir adalah suatu posisi atau peringkat seorang Distributor Nasa yang bisa dicapai berdasarkan prestasi omset ataupun pembinaan jaringan pemasaran didalam grupnya.
+
+Kalau pada pegawai negeri mungkin bisa disamakan dengan pangkat atau golongan. Peringkat ini merupakan salah satu faktor penentu perolehan beberapa macam bonus atau royalti penghasilan di Bisnis Nasa.
 
 **1. Distributor**
 
@@ -30,7 +33,7 @@ Mempunyai akumulasi omset minimal 5.000 PV
 
 **4. Gold Manager (GM)**
 
-"Syarat pencapaiannya:*
+*Syarat pencapaiannya:*
 
 * Melepas 2 kaki dengan satu kaki melepas Gold Manager dan satu kaki yang lain melepas Silver Manager ATAU
 * Melepas 3 kaki masing-masing kaki melepas peringkat Silver Manager ATAU
