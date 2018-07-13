@@ -2,9 +2,9 @@
 layouts: posts
 title: 'Marketing Plan Di PT. Natural Nusantara (NASA)'
 author: john
-image: assets/images/IMG_20180713_180933.jpg
 comments: true
 ---
+![marketing plan](assets/images/IMG_20180713_180933.jpg)
 
 Tidak sedikit masyarakat yang penasaran dengan Marketing Plan NASA terutama mereka yang tertarik dengan bisnis Nasa yang semakin bertambah usia semakin besar jumlah Distributornya.
 
