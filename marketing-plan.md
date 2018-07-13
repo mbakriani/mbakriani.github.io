@@ -1,35 +1,79 @@
 ---
 layouts: page
-title: 'Macam Macam Penghasilan Di PT. Natural Nusantara (NASA)'
+title: 'Marketing Plan Di PT. Natural Nusantara (NASA)'
+author: john
+image: assets/images/IMG_20180713_180933.jpg
 comments: true
 ---
 
-**#1. Keuntungan Langsung**
+Tidak sedikit masyarakat yang penasaran dengan Marketing Plan NASA terutama mereka yang tertarik dengan bisnis Nasa yang semakin bertambah usia semakin besar jumlah Distributornya.
 
-Adalah pendapatan yang diperoleh seorang distributor dari selisih harga konsumen dengan harga distributor. 
+Hal ini karena peluang bisnis yang ditawarkan PT Natural Nusantara memang sangat menjanjikan. Di Bisnis ini, anda bisa memiliki sebuah bisnis retail sendiri dengan modal yang tergolong sangat kecil dan fleksibel.
 
-**#2. Rabat Pengembangan**
+Marketing Plan Nasa adalah suatu bagan dari sebuah sistem yang dibuat oleh PT Natural Nusantara sebagai dasar seorang Distributor Nasa dalam menjalankan atau mengembangan
+bisnis produk Nasa. 
 
-Adalah Rabat seorang distributor yang diperoleh dari jumlah persentase omzet BV dikurangi dengan jumlah persentase omzet BV frontline beserta groupnya.
+Marketing Plan ini dibuat para perintis Nasa secara adil dan sederhana sehingga mudah dipahami oleh semua mitra bisnisnya.
 
-Besarnya persentase Rabat Pengembangan ditentukan berdasarkan omzet PV bulanan sesuai dengan tabel Rabat Pengembangan sebagai berikut :
+Dengan Marketing Plan ini, Distributor bisa mengetahui parameter apa yang bisa membuat rencana bisnisnya berjalan dengan maksimal. Parameter-parameter apa yang dituangkan dalam Marketing Plan tersebut?
 
-**#3. Rabat Karir**
+### Parameter dalam Marketing Plan NASA
 
-Adalah rabat yang merupakan sebuah penghargaan dari perusahaan sebesar 20 % dari BV Nasional untuk Distributor yang berhasil mencapai Jenjang Karir Manager s/d Crown Diamond Director.
+**#1. Istilah-istilah dalam Marketing Plan**
 
-**#4. Rabat Kepemimpinan**
+Pada bagian ini, kita bisa mendapatkan penjelasan tentang istilah-istilah yang sering dipakai dalam Marketing Plan Bisnis Nasa agar kita lebih mudah dalam memahaminya
 
-Adalah sebuah penghargaan dari perusahaan sebesar 21 % dari BV Nasional untuk Distributor yang berhasil mencapai Jenjang peringkat Silver Manager s/d Crown Diamond Director dengan syarat mempunyai Side volume minimal 1.000 PV.
+**#2. Jenjang Karir di Bisnis Nasa**
 
-**#5. Rabat Break Away**
+Bagian ini sangat penting untuk anda yang ingin fokus di Bisnis Nasa. Anda akan mendapatkan penjelasan mengenai Jenjang Karir dan bagaimana cara merancang bisnis anda agar bisa mencapai puncak karir di Bisnis Natural Nusantara ini dengan lebih efektif dan maksimal.
 
-Sebuah penghargaan sebesar 3% dari BV Nasional dari perusahaan untuk Distributor Nasa dengan minimal peringkat Gold Manager yang mempunyai kaki dengan omset 100.000 PV keatas.
+Untuk lebih lanjut, klik halaman [Jenjang Karir Bisnis Nasa]({{ site.baseurl }}/jenjang-karir)
 
-**#6. Rabat Qualifikasi**
+**#3. Macam Penghasilan di Bisnis Nasa**
 
-Penghargaan sebesar 3,5 % dari BV Nasional yang diberikan oleh perusahaan kepada Distributor dengan minimal peringkat Diamond Director (DD). Untuk perhitungannya sama dengan Rabat Kepemimpinan.
+Bagian ini menjelaskan tentang
+[keuntungan bisnis Nasa]({{ site.baseurl }}/keuntungan-bisnis-nasa) yaitu penghasilan apa yang bisa kita dapatkan dan bagaimana cara paling bagus agar kita bisa memaksimalkan pendapatan kita selama kita menjalani Bisnis sebagai Distributor Nasa ini.
 
-**#7. Royalty Tahunan**
+Untuk lebih lanjut, klik halaman [Macam Penghasilan Bisnis Nasa]({{ site.baseurl }}/macam-penghasilan-bisnis-nasa)
 
-Penghargaan sebesar 3,5 % dari BV Nasional yang diberikan oleh perusahaan kepada Distributor dengan minimal peringkat Diamond Director yang akan diberikan setahun sekali. Perhitungannya sama dengan Rabat Qualifikasi.
+### Istilah-istilah dalam Marketing Plan NASA
+
+**#1. DISTRIBUTOR**
+
+Adalah seseorang yang terdaftar sebagai anggota pada bisnis Network Marketing NASA
+
+**#2. SPONSOR**
+
+Seorang distributor yang memperkenalkan seorang calon distributor untuk menjadi distributor NASA dan namanya tertera dalam formulir pendaftaran pada kolom sponsor.
+
+**#3. FRONTLINE**
+
+Orang yang langsung anda sponsori (Dalam struktur jaringan berada dibawah anda langsung)
+
+**#4. DOWNLINE**
+
+Orang yang berada di bawah garis sponsorisasi anda (Dari Frontline ke bawah)
+
+**#5. UPLINE**
+
+Orang yang berada di atas garis sponsorisasi anda
+
+**#6. PV (Point Value)**
+
+Nilai suatu produk yang digunakan untuk menentukan besarnya persentase rabat (Ada pada buku Daftar Harga Distributor)
+
+**#7. BV (Business Value)**
+
+Nilai suatu produk yang digunakan untuk perhitungan rabat (Ada pada buku Daftar Harga Distributor)
+
+**#8. KAKI**
+
+Group distributor dari frontline ke bawah
+
+Itulah istilah-istilah yang sering digunakan dalam bagan Marketing Plan Nasa.
+
+Untuk Jenjang Karir dan Macam Penghasilan di bisnis Nasa, akan dibahas pada halaman tersendiri. 
+
+Dengan Sistem Bisnis Nasa yang luar biasa, Anda akan tetap mendapat dukungan sepenuhnya dari Sponsor maupun para Ahli Perusahaan yang berpengalaman.
+
+Semoga pembahasan kali ini bisa menjadi dasar anda untuk memahami lebih jauh tentang sistem bisnis di PT Natural Nusantara.
