@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">    
 <title>
-   {{ site.title }}
+   {{ site.{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
    </title>
  <meta content='{% if page.description {{ site.description }}' name='description'/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -40,7 +40,6 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#ccffe0">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
 <meta property="og:site_name" content="Natural Nusantara">
