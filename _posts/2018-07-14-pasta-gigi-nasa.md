@@ -59,7 +59,7 @@ dengan menggunakan Pasta Gigi Nasa Anda akan terhindar dari bau mulut, gigi lebi
 
 ![Pasta Gigi Nasa]({{ site.baseurl }}/assets/images/nasa-pasta-gigi-bpom.jpg)
 
-<div class="alert alert-success"> Dapat digunakan untuk semua usia, dari anak-anak hingga dewasa, dapat digunakan untuk semua anggota keluarga. </div>
+<div class="alert alert-success">Dapat digunakan untuk semua usia, dari anak-anak hingga dewasa, dapat digunakan untuk semua anggota keluarga.</div>
 
 Pasta Gigi Nasa berfungsi untuk membersihkan gigi, membuat gigi tampak lebih putih, dapat menyehatkan gigi dan gusi.
 
@@ -83,3 +83,12 @@ Anti decay agent yang akan memberikan kesegaran alami pada gigi dan gusi karena 
 Pasta gigi nasa memberikan 24 jam perlindungan terhadap gigi, gusi dan mulut secara menyeluruh. Mulut lebih segar dan sehat.
 
 Gigi Lebih bersih dan putih. Nikmati sensasi nafas segar hingga 24 jam dari pasta gigi nasa. Kesegarannya bikin kamu jadi makin pede dan menginspirasi kamu untuk bikin ide-ide fresh, lebih dekat dan lebih lama.
+
+<center><h3>
+Harga
+Rp. 25.000,
+</h3></center>
+<center> info dan pemesanan silahkan kontak pada nomer dibawah ini</center>
+—————————————————
+<center><h3>TELP/SMS/WA
+0878-6579-7629</h3></center>
