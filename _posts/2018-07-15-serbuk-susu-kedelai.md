@@ -13,16 +13,16 @@ memiliki khasiat dan manfaat lebih banyak dari itu.
 
 Susu kedelai merupakan salah satu olahan *kacang kedelai* yang memiliki nilai gizi tinggi.
 
-Susu kedelai diketahui mengandung 7 gram protein serta 9 asam amino yang penting bagi tubuh.
+Susukedelai diketahui mengandung 7 gram protein serta 9 asam amino yang penting bagi tubuh.
 
-Protein dalam Susu kedelai sangat baik untuk proses pertumbuhan anak, memperbaiki jaringan tubuh yang rusak dan dapat meningkatkan sistem kekebalan tubuh.
+Protein dalam Susu kedelai sangat baik untuk proses pertumbuhan anak, memperbaiki jaringan tubuh yang rusak dan dapat meningkatkan sistem kekebalan tubuh.
 
 Bukan hanya sebagai sumber protein lengkap, Susu kedelai juga mengandung vitamin dan mineral
 penting bagi tubuh manusia, termasuk kalsium untuk memperkuat tulang, zat besi, riboflavin dan vitamin B1.
 
 Serbuk Kedelai Alami NASA. Susu kedelai produksi PT Natural Nusantara merupakan olahan kacang kedelai yang memiliki nilai gizi tinggi.
 
-Protein dalam Susu kedelai sangat baik untuk proses pertumbuhan anak, memperbaiki jaringan tubuh yang rusak dan dapat meningkatkan sistem kekebalan tubuh.
+Protein dalam Susukedelai sangat baik untuk proses pertumbuhan anak, memperbaiki jaringan tubuh yang rusak dan dapat meningkatkan sistem kekebalan tubuh.
 
 Produk ini mengandung protein tinggi, Lecithin, isoflavon, dan saponin dengan cita rasa yang pastinya nikmat juga memiliki aroma yang wangi.
 
@@ -33,7 +33,7 @@ Bagi anda baik anak maupun orang dewasa yang tidak suka atau mengalami alergi t
 1. Merupakan hasil olahan dari kedelai hijau pilihan murni alami tanpa bahan pengawet.
 2. Mengandung protein tinggi lechitin, isoflavon, saponin dan berbagai bahan alami yang bermanfaat untuk membantu penyembuhan berbagai penyakit
 3. Mampu membantu menurunkan kadar kolesterol dalam darah
-4. Membantu mencegah diabetes, osteoporosis dan penuaan dini
+4. Membantumencegah diabetes, osteoporosis dan penuaan dini
 5. Menghambat monopause dll.
 
 ### Cara Konsumsi Serbuk SKA 7-2 Kedelai Alami NASA
