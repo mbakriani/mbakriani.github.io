@@ -6,10 +6,8 @@
  {% seo %}
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.png">    
-<title>
-   {{ site.{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-   </title>
- <meta content='{% if page.description {{ site.description }}' name='description'/>
+<title>{{ page.title }} | {{site.name}}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
@@ -17,6 +15,7 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
 {{site.sharethis}}
     
 {% if jekyll.environment == 'production' %}    
@@ -25,10 +24,11 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', '{{site.google_analytics}}', 'auto');
   ga('send', 'pageview');
 </script>
+{% endif %}
+ 
 <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#ccffe0">
 <!-- Windows Phone -->
