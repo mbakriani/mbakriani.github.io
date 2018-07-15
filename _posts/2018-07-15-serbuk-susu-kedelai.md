@@ -3,7 +3,7 @@ layout: post
 title: 'Serbuk Susu Kedelai Alami SKA-72 Suplemen Yang Menyehatkan'
 author: john
 categories: [ Suplemen ]
-images: assets/images/36136672_179846412878745_427631116065701888_n.jpg
+image: assets/images/36136672_179846412878745_427631116065701888_n.jpg
 ---
 
 Susu kedelai selama ini dikenal sebagai pengganti bagi anak maupun orang dewasa yang alergi terhadap susu sapi. Bukan hanya itu, Susu kedelai yang rendah lemak juga kerap dikonsumsi orang yang sedang menjalani program diet.
@@ -31,9 +31,9 @@ Bagi anda baik anak maupun orang dewasa yang tidak suka atau mengalami alergi t
 ### Manfaat Serbuk Kedelai Alami NASA
 
 1. Merupakan hasil olahan dari kedelai hijau pilihan murni alami tanpa bahan pengawet.
-2. Mengandung protein tinggi lechitin, isoflavon, saponin dan berbagai bahan alami yang bermanfaat untuk membantu penyembuhan berbagai penyakit
-3. Mampu membantu menurunkan kadar kolesterol dalam darah
-4. Membantu mencegah diabetes, osteoporosis dan penuaan dini
+2. Mengandung protein tinggi lechitin, isoflavon, saponin dan berbagai bahan alami yang bermanfaat untuk membantu penyembuhan berbagai penyakit
+3. Mampu membantu menurunkan kadar kolesterol dalam darah
+4. Membantu mencegah diabetes, osteoporosis dan penuaan dini
 5. Menghambat monopause dll.
 
 ### Cara Konsumsi Serbuk SKA 7-2 Kedelai Alami NASA
