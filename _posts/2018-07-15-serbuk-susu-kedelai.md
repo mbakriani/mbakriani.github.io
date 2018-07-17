@@ -2,14 +2,13 @@
 layout: post
 title: 'Serbuk Susu Kedelai Alami SKA-72 Suplemen Yang Menyehatkan'
 author: john
-categories: [ Suplemen ]
+categories: [ Suplemen , Kesehatan ]
 image: assets/images/36136672_179846412878745_427631116065701888_n.jpg
 ---
 
-Susu kedelai selama ini dikenal sebagai pengganti bagi anak maupun orang dewasa yang alergi terhadap susu sapi. Bukan hanya itu, Susu kedelai yang rendah lemak juga kerap dikonsumsi orang yang sedang menjalani program diet.
+Susu kedelai selama ini dikenal sebagai pengganti bagi anak maupun orang dewasa yang alergi terhadap susu sapi.
 
-...namun, sebenarnya Susu kedelai
-memiliki khasiat dan manfaat lebih banyak dari itu.
+sebenarnya susu kedelai memiliki khasiat dan manfaat lebih banyak dari itu.
 
 Susu kedelai merupakan salah satu olahan *kacang kedelai* yang memiliki nilai gizi tinggi.
 
