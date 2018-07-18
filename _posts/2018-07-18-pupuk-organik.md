@@ -51,7 +51,7 @@ Pupuk ini dibuat dengan pengawasan yang sangat teliti sehingga produk ini sangat
 22. Protein 8.75%
 23. Karbohidrat 81.75%
 
-![greenstart pupuk organik serbuk](assets/images/Greenstar-Pupuk-Organik.jpg)
+![greenstart pupuk organik serbuk](/assets/images/Greenstar-Pupuk-Organik.jpg)
 
 ### Kandungan Lain Greenstar
 
