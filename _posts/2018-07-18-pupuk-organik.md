@@ -9,7 +9,7 @@ Pupuk organik serbuk GREENSTAR Merupakan Produk Pertanian pupuk organik yang m
 
 Dengan fungsi utama meningkatkan kuantitas dan kualitas produksi tanaman serta kelestarian lingkungan (aspek K3). GREENSTAR dapat diaplikasikan untuk tanaman semusim, buah/tahunan, tanaman hias maupun pembibitan.
 
-![greenstart pupuk organik](assets/images/Greenstar-Pupuk-Organik-Serbuk.jpg)
+![greenstart pupuk organik](/assets/images/Greenstar-Pupuk-Organik-Serbuk.jpg)
 
 GREENSTAR juga mengandung hormon/zat pengatur tumbuh yang sangat dibutuhkan tanaman. Dengan penggunaan GREENSTAR, pupuk macro (NPK) dapat dikurangi 25%.
 
