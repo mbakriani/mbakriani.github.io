@@ -14,9 +14,9 @@ Crystal-X adalah obat herbal 100% alami, dikhususkan untuk  perawatan dan pengo
 
 **Crystal X** merupakan produk kesehatan dari Natural Nusantara yang dibuat dari mineral alam dipadu dengan zat antiseptik dari daun sirih yang berfungsi membantu membunuh bakteri, virus dan kuman penyakit, menghilangkan bau, menyembuhkan infeksi dan iritasi, rumput laut yang akan memberikan nutrisi pada jaringan epitel di rongga miss-V serta zat vinieil dari daun sisik naga untuk melenturkan dan merapatkan miss-V.
 
-<div class="alert alert-success"><center>Berdasarkan hasil penelitian menyebutkan bahwa pada tahun 2002 sebanyak 50% wanita Indonesia pernah mengalami keputihan, kemudian tahun 2004 meningkat menjadi 60% dan pada tahun 2008 meningkat lagi menjadi hampir 70% wanita Indonesia pernah mengalami keputihan setidaknya sekali dalam seumur hidup (Katharini,2009)</center></div>
-
-<div class="alert alert-success"><center>Banyak wanita yang tidak tahu tentang keputihan sehingga mereka menganggap keputihan sebagai hal yang umum dan sepele, di samping itu rasa malu ketika mengalami keputihan kerap membuat wanita enggan untuk melakukan pemeriksaan.<br><br>Padahal keputihan tidak bisa dianggap sepele, karena akibat dari keputihan sangat fatal bila lambat ditangani, tidak hanya bisa mengakibatkan kemandulan dan hamil di luar kandungan , keputihan juga bisa merupakan gejala awal dari kanker leher rahim yang berujung kematian (Dwiana,2008)</center></div>
+<div class="alert alert-success">Berdasarkan hasil penelitian menyebutkan bahwa pada tahun 2002 sebanyak 50% wanita Indonesia pernah mengalami keputihan, kemudian tahun 2004 meningkat menjadi 60% dan pada tahun 2008 meningkat lagi menjadi hampir 70% wanita Indonesia pernah mengalami keputihan setidaknya sekali dalam seumur hidup (Katharini,2009)
+<br><br>
+Banyak wanita yang tidak tahu tentang keputihan sehingga mereka menganggap keputihan sebagai hal yang umum dan sepele, di samping itu rasa malu ketika mengalami keputihan kerap membuat wanita enggan untuk melakukan pemeriksaan. Padahal keputihan tidak bisa dianggap sepele, karena akibat dari keputihan sangat fatal bila lambat ditangani, tidak hanya bisa mengakibatkan kemandulan dan hamil di luar kandungan , keputihan juga bisa merupakan gejala awal dari kanker leher rahim yang berujung kematian (Dwiana,2008)</div>
 
 ### Bentuk Crystal X
 
@@ -133,22 +133,74 @@ Bahkan kami dapat mengatakan Crystal X ini tidak berbahaya sama sekali selama pe
 2. Crystal X sudah terdaftar di Badan Pengawas Obat dan Makanan (BPOM RI) dengan nomor regestrasi REG. IDM000245253 – POM NA 18151600018. Jadi walau pun obat herbal, namun sudah diakui dan sudah memenuhi standar pengawasan obat dan makanan.
 3. Crystal X sudah ada sejak tahun 2008 dan dipasarkan oleh PT. NASA yang berdiri sejak tahun 2002. Jadi Crystal X dan perusahaannya bukan sesuatu yang baru. Sudah berdiri sejak lama dan sudah terbukti.
 
+### Komposisi/Bahan-bahan Crystal-X
+
+Berikut ini adalah bahan-bahan yang terkandung dalam kristal x
+
+#### #1. Mineral Alam dan Extract Daun Sirih (Piper Betle Leaf Extract)
+
+![mineral alam pada cristal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/Sulfur-1www.solusipenyakitkewanitaan.com_.jpg)
+
+![daun sirih alam pada cristal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/DaunSirih-1www.solusipenyakitkewanitaan.com_.jpg)
+
+Mineral Alam berupa sulfur dan daun sirih yang memiliki fungsi antiseptik,
+
+membunuh kuman, jamur, dan bakteri yang menyebabkan
+
+keputihan, mengeluarkan kotoran yang menempel pada dinding
+
+vagina, mencegah berkembangnya virus, kanker, menghilangkan
+
+bau tidak sedap serta menetralkan pH vagina. Daun Sirih banyak mengandung senyawa anti bakteri, antara lain: *tanin, flavonoid, polifenol, dan saponin.*
+
+#### #2. Ekstrak Rumput Laut (Gracilaria Verrucosa Extract)
+
+![rumput laut pada cristal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/RumputLaut-1www.solusipenyakitkewanitaan.com_.jpg)
+
+Rumput laut bermanfaat untuk memberikan nutrisi pada lapisan
+
+kulit epitel vagina sehingga vagina menjadi lembut dan lebih peka.
+
+#### #3. Zat Viniel dari Daun Sisik Naga
+
+![daun sirsak pada cristal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/DaunSisikNaga-1www.solusipenyakitkewanitaan.com_.jpg)
+
+Daun Sisik Naga mengandung zat viniel yang berfungsi untuk
+
+melenturkan dan merapatkan vagina.
+
+#### #4. Ekstrak Lidah Buaya (Aloe Barbadensis Extract)
+
+ ![daun lidah buaya pada cristal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/DaunLidahBuaya-1www.solusipenyakitkewanitaan.com_.jpg)
+
+Aloe Vera yang memiliki nama latin Aloe Barbadensis Milleer adalah tumbuhan herbal yang  sudah dikenal sejak ribuan tahun lalu sebagai tanaman herbal yang berkhasiat untuk menyuburkan rambut, menyembuhkan luka dan untuk merawat kulit.
+
+Tumbuhan herbal ini banyak ditemukan di kawasan kering di Afrika. Extract inilah yang menjadi salah satu bahan-bahan penyusun Crystal X.
+
 ### Cara Pemakaian Crystal X
 
-Berikut cara menggunakan Crystal X:
+Crystal x asli NASA secara prinsip
+digunakan bukan diminum atau dimakan, tetapi dioleskan atau
+dimasukkan ke dalam miss v.
 
-**Bagi yang telah berkeluarga**
+bagi yang sudah menikah, dan bagi yang belum menikah/perawan cukup menggunakan air bekas rendaman crystal X untuk membasuh miss v.
 
-1. Basahi Crystal-X dengan air, lalu oleskan Crystal X ke bibir vagina
-2. oles-oleskan perlahan selama 10 detik, diamkan beberapa saat
-3. lalu basuh miss V dengan air bersih. 4. Setelah selesai, bersihkan Crystal X dengan air, kemudian di lap dengan kain kering dan bersih.
-5. Simpan di tempat kering dan tertutup baik.
+Untuk lebih jelas dan rinci mengenai penggunaanya, kami rincikan bagi yang sudah menikah dan bagi yang belum menikah/perawan.
 
-**Bagi yang masih gadis**
+#### Cara Menggunakan  Bagi yang Sudah Menikah/Sudah Tidak Perawan:
 
-1. Rendam Crystal-X dalam air suam-suam kuku selama 1-5 menit dan dipakai untuk membersihkan/membasuh organ kewanitaan. Cara ini juga dapat digunakan bagi wanita berkeluarga yang enggan melakukan cara Perhatian
+1. Basuh kristalx dengan menggunakan air bersih. Kemudian basuh juga miss v dengan air bersih.
+2. Kemudian masukkan Crsystal X kira-kira 4 cm ke dalam miss v (panjang Cx  kurang lebih 6 cm). Kemudian putar searah jarum jam kira-kira 10x putaran.
+3. Gunakan sehari 2x sehabis mandi dan 5 menit sebelum dan sesudah berhubungan dengan suami.
+4. Setelah pemakaian  miss v tidak boleh dibasuh lagi. Kenapa? Karena jika dibasuh atau disiram air, kandungannya akan luntur dan hanyut terbawa air. Sehingga efek dari penggunaan kurang maksimal.
+5. Setelah selesai pemakaian, segera kristal x  dibersihkan  dengan air kemudian dikeringkan dan dimasukkan ke dalam wadahnya kembali.
 
-<div class="alert alert-success">Gunakan Crystal 2 x sehari setelah mandi untuk pengobatan keputihan maupun gangguan/keluhan pada daerah miss V <br><br> kurangi intensitas pemakaian jika sudah dirasa membaik/sembuh untuk pencegahan berbagai masalah pada miss V datang kembaliDapat juga dipakai 5 menit sebelum berhubungan intim dengan suami</div>
+#### Cara Menggunakan Bagi yang Masih Gadis/ Masih Perawan:
+
+1. Rendam Cristalx  dalam setengah gelas air hangat selama kurang lebih 2 sd 3 menit.
+2. Basuh dan bersihkan miss v dengan menggunakan air bersih.
+3. Kemudian air rendaman digunakan untuk membasuh miss v.
+4. Setelah membasuh miss v dengan air rendaman Cristalx, miss v jangan dibasuh lagi dengan air biasa. Hal ini agar obat yang terkandung di Cristalx bereaksi. Jika dibasuh lagi dengan air biasa, maka kandungan obatnya akan hanyut terbawa air, sehingga hasil pemakaian tidak maksimal.
 
 ### Perlu diperhatikan
 
@@ -171,3 +223,21 @@ Karena bentuknya yang Kristal maka sifatnya pun mudah pecah jika jatuh. Jadi dir
 Lalu bagaimana jika sudah terlanjur jatuh dan pecah? Jika sudah terlanjur jatuh ke lantai dan pecah, jangan langsung buang Crystal X-nya, masih bisa dipakai dengan cara direndam seperti pemakaian Crystal X bagi yang belum menikah.
 
 Rendam beberapa saat lalu gunakan air rendaman untuk membasuh miss V. Jangan lupa angkat potongan/pecahan Crystal X untuk dikeringkan dan disimpan ke dalam kemasannya.
+
+### Apakah Crystal X  Halal…?
+
+![cristal X halal](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/11/LogoHalalMUIwww.solusipenyakitkewanitaan.com_-320x320.jpg)
+
+Crystal X asli/original halal untuk dipakai. Hal ini terbukti crytal x sudah mendapatkan sertifikat halal MUI dan BPOM. Harga resmi dari perusahaan sangat murah, jika dibandingkan dengan biaya berobat ke dokter berkali-kali, dan belum tentu sembuh, apalagi menggunakan obat-obatan kimia yang banyak efek sampingnya.
+
+Harga Crystal X for women asli ini khasiatnya sudah dibuktikan ribuan pelanggan memang 99% sangat efektif untuk mengobati segala macam keluhan kewanitaan separah apapun dalam 3 tahun ini sejak produk dijual di pasaran.
+
+Crystal X relatif Murah karena bisa dipakai hingga 4-6 bulan, itupun kalau digunakan untuk terapi penyembuhan masalah kewanitaan. Biasanya semakin lama ukurannya menjadi semakin mengecil, jadi kurang nyaman dipakai kalo semakin kecil.
+
+Jadi dalam sehari cukup dipakai 2 kali sehabis mandi. Kalo dihitung-hitung sekali pakai crystal X cukup menganggarkan seribu rupiah saja. Apalagi kalau hanya untuk perawatan ketika miss v sudah bersih dari kotoran-kotoran dan kerak, maka pemakaian cukup 2 -3 kali dalam seminggu, dan crystal X anda akan lebih awet bahkan bisa sampai 6 bulan.
+
+![badan pom](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/08/bpom-crystalx-keputihan.gif)
+
+Berikut  ini Link BPOM RI untuk Produk Crystal X  >>[BPOM RI Crystal-x](http://cekbpom.pom.go.id/index.php/home/produk/85d80323cb347cf2bddc4bb60e9dddce/all/row/10/page/1/order/4/DESC/search/0/18151600018)<<
+
+BPOM RI NO 18151600018
