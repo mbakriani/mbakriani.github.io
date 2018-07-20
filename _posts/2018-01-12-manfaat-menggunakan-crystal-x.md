@@ -6,31 +6,47 @@ categories: [ Kesehatan, Kosmetik ]
 image: assets/images/Agen-Crystal%20X%20Asli%20NASA.png
 featured: true
 ---
-**Crystal X** merupakan produk kesehatan dari Natural Nusantara yang dibuat dari mineral alam dipadu dengan zat antiseptik dari daun sirih yang berfungsi membantu membunuh bakteri, virus dan kuman penyakit, menghilangkan bau, menyembuhkan infeksi dan iritasi, rumput laut yang akan memberikan nutrisi pada jaringan epitel di rongga miss-V serta zat vinieil dari daun sisik naga untuk melenturkan dan merapatkan miss-V.
+## Crystal X  Sebagai Solusi Untuk Keputihan, Myom dan Kanker Serviks
+
+### Apa itu Crystal X
+
+Crystal-X adalah obat herbal 100% alami, dikhususkan untuk  perawatan dan pengobatan semua masalah kewanitaan. Selama 6 tahun terakhir obat herbal Crystal X terbukti efektif dan ampuh menyembuhkan ratusan ribu penggunanya.
+
+**Crystal X** merupakan produk kesehatan dari Natural Nusantara yang dibuat dari mineral alam dipadu dengan zat antiseptik dari daun sirih yang berfungsi membantu membunuh bakteri, virus dan kuman penyakit, menghilangkan bau, menyembuhkan infeksi dan iritasi, rumput laut yang akan memberikan nutrisi pada jaringan epitel di rongga miss-V serta zat vinieil dari daun sisik naga untuk melenturkan dan merapatkan miss-V.
+
+<div class="alert alert-success"><center>Berdasarkan hasil penelitian menyebutkan bahwa pada tahun 2002 sebanyak 50% wanita Indonesia pernah mengalami keputihan, kemudian tahun 2004 meningkat menjadi 60% dan pada tahun 2008 meningkat lagi menjadi hampir 70% wanita Indonesia pernah mengalami keputihan setidaknya sekali dalam seumur hidup (Katharini,2009)</center></div>
+
+<div class="alert alert-success"><center>Banyak wanita yang tidak tahu tentang keputihan sehingga mereka menganggap keputihan sebagai hal yang umum dan sepele, di samping itu rasa malu ketika mengalami keputihan kerap membuat wanita enggan untuk melakukan pemeriksaan.<br><br>Padahal keputihan tidak bisa dianggap sepele, karena akibat dari keputihan sangat fatal bila lambat ditangani, tidak hanya bisa mengakibatkan kemandulan dan hamil di luar kandungan , keputihan juga bisa merupakan gejala awal dari kanker leher rahim yang berujung kematian (Dwiana,2008)</center></div>
+
+### Bentuk Crystal X
+
+Crystal X berbentuk  padat kristal, seperti batu tapi permukaannya lembut, seperti sabun tapi tidak berbusa, Panjang = 6 cm dengan Diameter = 1 cm. Praktis, kecil dan mudah disimpan dan dipakai kapan saja dimana saja, mudah dibawa kemana-mana dengan permukaan yang halus sehingga sangat nyaman dan aman sekali untuk digunakan.
+
+![bentuk crystal x](http://solusipenyakitkewanitaan.com/wp-content/uploads/2014/08/Crystal-x.jpg)
 
 ### Manfaat Crystal X Bagi Wanita
 
 Secara umum, Crystal X memiliki manfaat sebagai berikut :
 
-**#1. Menjaga Miss V dari berbagai macam gangguan dari lingkungan yang kotor dan tidak sehat**
+#### 1. Menjaga Miss V dari berbagai macam gangguan dari lingkungan yang kotor dan tidak sehat
 
 Jadi Crystal X dapat digunakan sebagai produk perawatan bagi sista selayaknya sista memakai kosmetik untuk kecantikan seperti biasanya
 
-**#2. Membasmi kuman dan bakteri pada daerah kewanitaan**
+#### 2. Membasmi kuman dan bakteri pada daerah kewanitaan
 
 Kita sudah sama-sama tau di zaman modern ini banyak pencemaran lingkungan dan wabah penyakit. Crystal X data membantu membasmi kuman dan bakteri yang mengancam kesehatan miss V
 
-**#3. Membersihkan kotoran atau kerak pada vagina**
+#### 3. Membersihkan kotoran atau kerak pada vagina
 
 Miss V sendiri di dalamnya terdapat kerak atau kotoran, terutama bagi yang sudah menikah karena sudah berhubungan intim dengan pasangannya.
 
 Jadi dengan menggunakan Crystal X maka kerak dan kotoran yang selama ini tidak pernah keluar maka akan dibersihkan secara bertahap dan aman
 
-**#4. Mengaktifkan dan melenturkan kembali selaput vagina**
+#### 4. Mengaktifkan dan melenturkan kembali selaput vagina
 
 Seiring dengan bertambahnya waktu dan usia maka kelenturan miss V akan berkurang. Maka dari itu banyak sista-sista yang mencari Crystal X untuk kembali melenturkan otot miss V-nya demi membahagiakan suami
 
-**#5. Mencegah timbulnya berbagai kanker berbahaya pada daerah kewanitaan**
+#### 5. Mencegah timbulnya berbagai kanker berbahaya pada daerah kewanitaan
 
 Kanker mulut rahim (serviks) adalah jenis kanker pada daerah kewanitaan yang paling ditakuti sampai saat saya menulis artikel ini. Begitu banyak sista yang belum mengetahui pentingnya pencegahan dengan Crystal X ini.
  
@@ -64,17 +80,17 @@ Jadi inilah yang sering disebut Crystal X untuk merapatkan kembali miss V, dan m
 
 ### Penyakit yang Bisa Diatasi oleh Crystal X
 
-**#1. Keputihan**
+#### 1. Keputihan
 
 Seperti yang sudah kita bahas sebelumnya, masalah Keputihan adalah salah satu dari sekian masalah yang dapat diatasi dengan Crystal X, baik keputihan yang masih ringan maupun keputihan yang sudah akut.
 
-**#2. Bau Tidak Sedap**
+#### 2. Bau Tidak Sedap
 
 Miss V merupakan daerah yang lembab dan sangat sensitif, jadi miss V bisa menjadi tempat berkumpulnya penyebab masalah bau yang tidak sedap. Biasanya yang cukup parah adalah bau amis yang tercium dari daerah seputar selangkangan.
 
 Jika sampai begini tentu akan mengganggu aktifitas Sista sekalian karena menurunkan rasa percaya diri. Juga saat berhubungan intim, bau tidak sedap akan mengganggu kita maupun pasangan kita sendiri. Bau tidak sedap tersebut dapat diatasi dengan Crystal X secara tuntas.
 
-**#3. Mioma/Myoma**
+#### 3. Mioma/Myoma
 
 Mioma adalah masalah keputihan yang tumor jinak yang terdapat pada dinding rahim. Gejalanya bermacam-macam mulai dari :
 
@@ -85,7 +101,7 @@ Mioma adalah masalah keputihan yang tumor jinak yang terdapat pada dinding rahim
 
 Parahnya sebagian besar Sista tidak menyadari jika dirinya sudah mengidap tumor jinak ini. Jadi alasannya cukup wajar kenapa Sista harus pakai Crystal X karena untuk pencegahan dan bahkan pengobatan jika memang terdapat tumor jinak tersebut.
 
-**#4. Kista**
+#### 4. Kista
 
 Kista adalah sebuah kantong tertutup pada dinding atau bagia bawah dinding miss V yang berisi cairan atau semi padat.
 
@@ -93,7 +109,7 @@ Hal ini terjadi karena tersumbatnya kelenjar atau salurannya yang mengakibatkan 
 
 Uniknya kista biasanya tidak bergejala, jika memiliki gejala maka mungkin terasa sakit saat berhubungan intim dengan pasangan.
 
-**5. Kanker Serviks**
+#### 5. Kanker Serviks
 
 Memang beberapa penyakit seputar daerah kewanitaan yang cukup mengerikan tidak menimbulkan gejala yang cukup signifikan, tidak terkecuali dengan Kanker Serviks, gejalanya baru diketahui setelah menginjak stadium yang cukup parah.
 
@@ -136,15 +152,17 @@ Berikut cara menggunakan Crystal X:
 
 ### Perlu diperhatikan
 
-**#1. Jangan gunakan Crystal X sewaktu haid**
+Kunci dari keberhasilan  adalah kedisiplinan. PESAN SAYA (kalau mau sembuh bunda atau sista) wajib memakai secara rutin dan teratur sesuai petunjuk cara pemakaian yang benar agar hasilnya maksimal. Hasilnya, penyakit kewanitaan sembuh dan miss v menjadi lebih kesat, rapat dan harum. Mau..?
+
+#### 1. Jangan gunakan Crystal X sewaktu haid
 
 karena crystal X nantinya akan terkena darah haid dan menjadi kotor, jika kotor malah akan menjadi sarang kuman dan bakteri pembawa penyakit
 
-**#2. Jangan gunakan Crystal X jika sudah positif hamil.**
+#### 2. Jangan gunakan Crystal X jika sudah positif hamil.
 
 Crystal X sudah boleh digunakan jika masa nifasnya sudah selesai. 
 
-**#3. Crystal X Terjatuh dan Pecah**
+#### 3. Crystal X Terjatuh dan Pecah
 
 Crystal X merupakan produk yang terbuat dari daun sirih, aloe vera, daun sisik naga dan masih banyak bahan organik lain yang kemudian diekstrak untuk dikristalkan agar mudah digunakan dan tahan lama.
 
