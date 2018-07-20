@@ -75,3 +75,13 @@ Jadikan Zayma Milk Beauty Soap - Sabun Susu Memutihkan kulit Wajah Alami sebag
 Produk terkait [Zayma sabun lulur keraton](https://naturalnusantara.me/zayma-sabun-lulur/)
 
 [![Zayma sabun pemutih](http://img.youtube.com/vi/zETHpT_9iv8/0.jpg)](http://www.youtube.com/watch?v=zETHpT_9iv8 "Zayma beauty soap")
+
+<center><h3>
+Harga
+Rp. 22.000,
+</h3></center>
+<center> Info dan pemesanan hubungi nomer dibawah ini </center>
+
+——————————————————
+<center><h3>TELP/SMS/WA
+0878-6579-7629</h3></center>
