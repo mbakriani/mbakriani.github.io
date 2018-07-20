@@ -241,3 +241,13 @@ Jadi dalam sehari cukup dipakai 2 kali sehabis mandi. Kalo dihitung-hitung sekal
 Berikut  ini Link BPOM RI untuk Produk Crystal X  >>[BPOM RI Crystal-x](http://cekbpom.pom.go.id/index.php/home/produk/85d80323cb347cf2bddc4bb60e9dddce/all/row/10/page/1/order/4/DESC/search/0/18151600018)<<
 
 BPOM RI NO 18151600018
+
+<center><h3>
+Harga
+Rp. 200.000,
+</h3></center>
+<center> Info dan pemesanan hubungi nomer dibawah ini </center>
+
+——————————————————
+<center><h3>TELP/SMS/WA
+0878-6579-7629</h3></center>
