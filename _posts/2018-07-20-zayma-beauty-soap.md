@@ -30,7 +30,7 @@ Susu kambing telah terbukti secara klinis dapat memberikan efek positif pada ku
 
 ![zayma beuty soap pemutih kulit](https://www.produkherbalorganiknasa.com/wp-content/uploads/2018/07/1853652_5ebdcdc3-a13f-4c55-bf08-947ce82cdfaa.jpg)
 
-[Zayma Milk Beauty Soap](https://naturalnusantara.me/zayma-milk-beauty-soap/) - Sabun Susu untuk memutihkan kulit Wajah Alami terbuat dari bahan alami bermutu tinggi, halal dan diramu dengan formula tradisional warisan keraton, sebagai parfum klasik dengan pesona anggun dan menyehatkan.
+[Zayma Milk Beauty Soap](https://naturalnusantara.me/zayma-beauty-soap/) - Sabun Susu untuk memutihkan kulit Wajah Alami terbuat dari bahan alami bermutu tinggi, halal dan diramu dengan formula tradisional warisan keraton, sebagai parfum klasik dengan pesona anggun dan menyehatkan.
 
 ### Kandungan Zay Ma 
 
