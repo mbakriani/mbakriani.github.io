@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Royal Jelly Nasa Herbal Untuk Kesuburan dan Kesehatan Pria dan Wanita
+author: john
 image: assets/images/royal jelly.jpg
 categories: [Kesehatan]
 ---
@@ -28,7 +29,7 @@ Mineral dan vitamin yang ada dalam royal jelly mengefektifkan dan menjaga kerja 
 …sehingga dapat membantu mempertahankan dan meningkatkan vitalitas seksual, sekaligus untuk menyuburkan kandungan bunda, menguatkan kandungan dan
 membantu pemulihan pasca kuret/ KB /keguguran
 
-![royall jelly](IMG-20171007-WA0008.jpg)
+![royall jelly](/assets/images/IMG-20171007-WA0008.jpg)
 
 ### Kandungan Natural Royal Jelly
 
