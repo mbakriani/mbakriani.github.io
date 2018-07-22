@@ -66,3 +66,13 @@ Penggunaan secara rutin dapat emngurangi lemak berlebih pada bagian tubuh terten
 2. Telah mendapat izin edar resmi dari Badan POM dengan Nomor POM NA 18170103570. Sehingga telah dijamin aman kandungannya. Sehingga membuat para konsumen merasa aman dan nyaman ketika menggunakannya.
 
 Wujudkan impian perut ramping, sehat dan kencang tanpa lemak dengan MORESKIN Stomach Cream / Krim Susut Perut. Dapatkan MORESKIN Stomach Cream / Krim Susut Perut hanya dari Distributor Resmi PT Natural Nusantara (NASA).
+
+<center><h3>
+Harga
+Rp. 150.000,
+</h3></center>
+<center> Info dan pemesanan hubungi nomer dibawah ini </center>
+
+——————————————————
+<center><h3>TELP/SMS/WA
+0878-6579-7629</h3></center>
