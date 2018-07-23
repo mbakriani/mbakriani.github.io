@@ -78,7 +78,7 @@ Ternak unggas meliputi itik, ayam, burung puyuh dan lain-lain. Menggunakan dosis
 
 Untuk bidang perikanan meliputi ikan mas, udang, nila, lele, gurame, patin, dan lain-lain. Menggunakan dosis 5-10 cc dicampur dengan 1 liter air dan 3 kg pakan ikan.
 
-<div class="alert alert-success">Catatan : kombinasikan VITERNA PLUS dengan POC NASA ditambah dengan Hormonik untuk hasil yang lebih optimal</div>
+<div class="alert alert-success"> Catatan : kombinasikan VITERNA PLUS dengan POC NASA ditambah dengan Hormonik untuk hasil yang lebih optimal </div>
 
 Jika Anda membutuhkan Viterna Plus dan Anda berada di daerah yang sulit dijangkau pengiriman berat, kalaupun ada tetapi biaya pengirimannya mahal, Anda bisa mempertimbangkan untuk memakai VITERNA Plus Organik Serbuk untuk meningkatkan produk ternak Anda.
 
