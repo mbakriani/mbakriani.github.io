@@ -4,7 +4,7 @@ title: Lacoco Bust Fit Concentrate Serum Pengencang Payudara
 author: john
 categories: [perawatan , kecantikan]
 featured: true
-image: assets/images/https://2.bp.blogspot.com/-Xlz6QLNISKc/WzkZXN8J1DI/AAAAAAAAHy8/ycunRvcbJRczu6PsxVKDIVg8HKhNukc_gCLcBGAs/s400/Lacoco%2BBust%2BFit%2BConcentrate%2BSerum%2Bsoke1udyrEP0bExIdUmE.jpg
+image: assets/images/Lacoco Bust Fit Concentrate Serum soke1udyrEP0bExIdUmE.jpg
 ---
 Lacoco Bust Fit Concentrate Serum merupakan produk perawatan khusus untuk payudara wanita dengan tekstur yang ringan dan cepat meresap.
 
@@ -20,7 +20,7 @@ Sejak zaman dahulu, buah manggis telah menjadi perawatan andalan bagi wanita. Bu
 
 Kandungan senyawa dalam buah manggis bersifat antioksidan dan anti inflamasi, sehingga mampu mencegah penuaan dan membantu mencegah sel kanker.
 
-<div class="alert alert-success"> Manggis (Garcinia mangostana) adalah buah tropis asli Asia Tenggara dan telah lama dilaporkan mengandung beberapa sifat untuk menjaga kesehatan. Buah ini merupakan sumber xanthones, yang merupakan senyawa polifenol yang bertanggung jawab untuk kegiatan biologis termasuk aktivitas anti-kanker. Di sini kita menggambarkan aktivitas anti-kanker dan mekanisme xanthones polifenol manggis termasuk α-Mangostin mampu melawan kanker payudara dan kanker prostat.” (Li et al, 2013) Department of Pharmacy Practice, College of Pharmacy, University of Illinois at Chicago, Chicago, IL, USA. </div>
+<div class="alert alert-success">Manggis (Garcinia mangostana) adalah buah tropis asli Asia Tenggara dan telah lama dilaporkan mengandung beberapa sifat untuk menjaga kesehatan. Buah ini merupakan sumber xanthones, yang merupakan senyawa polifenol yang bertanggung jawab untuk kegiatan biologis termasuk aktivitas anti-kanker. Di sini kita menggambarkan aktivitas anti-kanker dan mekanisme xanthones polifenol manggis termasuk α-Mangostin mampu melawan kanker payudara dan kanker prostat.” (Li et al, 2013) Department of Pharmacy Practice, College of Pharmacy, University of Illinois at Chicago, Chicago, IL, USA.</div>
 
 ![lacoco pengencang payudara](http://ptnasa.net/wp-content/uploads/2018/06/lacoco-bust-fit-nasa-768x768.jpg)
 
@@ -34,7 +34,7 @@ Lacoco Bust Fit Concentrate Serum dilengkapi dengan Thyme. Thyme telah dibuktika
 
 Thyme juga memiliki sifat beracun bagi sel kanker (sitotoksik) yang kuat. Manfaat lain dari thyme yaitu memiliki kemampuan untuk mengikat radikal bebas yang sangat baik. Thyme juga memiliki kemampuan sebagai antinociception untuk meredakan rasa sakit.
 
-<div class="alert alert-success"> Minyak esensial Thyme ditemukan untuk membunuh 98% sel kanker payudara manusia (MCF-7) secara in vitro setelah 72 jam perawatan. Kemudian, pada konsentrasi hanya 0,05% (pada 0,01%, minyak esensial Thyme masih membunuh> 40% sel). Minyak esensial thyme terbukti paling ampuh membunuh sel kanker.” (Bozkurt et al, 2012) Dept of  Biology, Faculty of Science and Art, Celal Bayar University, Manisa, Turkey. </div>
+<div class="alert alert-success">Minyak esensial Thyme ditemukan untuk membunuh 98% sel kanker payudara manusia (MCF-7) secara in vitro setelah 72 jam perawatan. Kemudian, pada konsentrasi hanya 0,05% (pada 0,01%, minyak esensial Thyme masih membunuh> 40% sel). Minyak esensial thyme terbukti paling ampuh membunuh sel kanker.” (Bozkurt et al, 2012) Dept of  Biology, Faculty of Science and Art, Celal Bayar University, Manisa, Turkey.</div>
 
 ### Manfaat Lacoco Bust Fit Concentrate Serum
 
@@ -63,7 +63,7 @@ Berikut manfaat lengkap Lacoco Bust Fit Concentrate Serum, yaitu:
 5. Tarik pelan-pelan bagian pangkal Mr P ke ujung depan selama 5 detik
 Lakukan berulang kali selama kurang lebih 5 menit secara bergantian dengan tangan kanan dan tangan kiri.
 
-<div class="alert alert-success"> Gunakan secara rutin untuk terapi. Karena hasil yang signifikan hanya didapatkan dengan usaha yang telaten. Lebih dari untuk meningkatkan ukuran Mr. P, Lacoco Bust Fit bisa untuk membantu mencegah kanker prostat karena mengandung Thyme oil dan Chamomile oil untuk membantu menjaga organ vital dari jamur dan bakteri penyebab penyakit kelamin yang lain. </div>
+<div class="alert alert-success">Gunakan secara rutin untuk terapi. Karena hasil yang signifikan hanya didapatkan dengan usaha yang telaten. Lebih dari untuk meningkatkan ukuran Mr. P, Lacoco Bust Fit bisa untuk membantu mencegah kanker prostat karena mengandung Thyme oil dan Chamomile oil untuk membantu menjaga organ vital dari jamur dan bakteri penyebab penyakit kelamin yang lain.</div>
 
 Hadir dalam botol pump 30 ml. Dengan kemasan Glossy soft grey, black, hot stamp dan emboss.
 
